@@ -1,0 +1,372 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "aishling-callanan",
+  "name": {
+    "first": "Aishling",
+    "last": "Callanan",
+    "full": "Aishling Callanan",
+    "preferred": "Aishling"
+  },
+  "tagline": "Steady over every barrier.",
+  "headline": "Texas Track & Field · Steeplechase & Cross Country",
+  "eventGroup": "distance",
+  "events": [
+    "3000m steeplechase",
+    "1500m",
+    "800m",
+    "Cross country"
+  ],
+  "hometown": "Rancho Palos Verdes, California",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Marketing",
+    "classYear": "Senior",
+    "gradDate": "Expected May 2027"
+  },
+  "contact": {
+    "email": "ac86375@my.utexas.edu"
+  },
+  "bio": {
+    "short": "Aishling Callanan is a senior distance runner for Texas: a 10:19.23 steeplechaser who moved to No. 3 on the Longhorns' all-time list in 2025, a cross country leader and a Marketing major. In 2026 she was a Project Manager Intern at Feniex Industries.",
+    "long": [
+      "Aishling Callanan is a fourth-year Longhorn who races everything from 800 meters to 6K cross country, and the steeplechase is where she shines. She finished third in her first-ever steeplechase at the 2025 Texas Relays. A month later she won the event on her home track at the Texas Invitational in 10:19.23, a mark that ranks No. 3 on Texas' all-time performers list. As a senior in 2026 she won the season-opening Floyd Farms Invitational and led the Texas women at the Chile Pepper Festival with a 5K best of 17:00.1.",
+      "Callanan grew up in Rancho Palos Verdes, California, and ran for Palos Verdes Peninsula High School. There she set school records in the 800m and 1,600m, broke the all-time record on the hilly Palos Verdes cross country course and placed third in Division II at the 2021 CIF State Championships. At Texas she studies Marketing and has twice made the SEC Academic Honor Roll. As a senior she has taken on mentoring the team's youngest runners, describing her role as \"being someone they can look up to.\"",
+      "The steeplechase asks a runner to hold her pace while clearing barriers lap after lap, and Callanan approaches work the same way. As a Project Manager Intern at Feniex Industries in 2026, she helped keep projects on track at the Austin manufacturer of emergency-vehicle lighting: following schedules and status across teams, documenting processes and using her Marketing training to communicate clearly with sales and product colleagues. She brings consistency, composure and a team-first outlook that measures success by how everyone improves."
+    ]
+  },
+  "stats": [
+    {
+      "label": "3000m steeplechase best",
+      "value": "10:19.23",
+      "note": "Texas Invitational, 2025 (1st)"
+    },
+    {
+      "label": "Texas all-time steeplechase performers list",
+      "value": "No. 3",
+      "note": "Texas Invitational, 2025"
+    },
+    {
+      "label": "5K cross country best",
+      "value": "17:00.1",
+      "note": "Chile Pepper Festival, 2026 (top Texas woman)"
+    },
+    {
+      "label": "Seasons as a Longhorn",
+      "value": "4",
+      "note": "2023-2026"
+    }
+  ],
+  "prs": [
+    {
+      "event": "3000m steeplechase",
+      "mark": "10:19.23",
+      "meet": "Texas Invitational",
+      "year": "2025",
+      "indoor": false
+    },
+    {
+      "event": "1500m",
+      "mark": "4:22.47",
+      "meet": "Bryan Clay Invitational",
+      "year": "2025",
+      "indoor": false
+    },
+    {
+      "event": "800m",
+      "mark": "2:10.47",
+      "meet": "Texas Invitational",
+      "year": "2025",
+      "indoor": false
+    },
+    {
+      "event": "Mile",
+      "mark": "4:49.51",
+      "meet": "Boston University David Hemery Valentine Invitational",
+      "year": "2025",
+      "indoor": true
+    },
+    {
+      "event": "3000m",
+      "mark": "9:47.99",
+      "meet": "Tyson Invitational",
+      "year": "2026",
+      "indoor": true
+    },
+    {
+      "event": "5K cross country",
+      "mark": "17:00.1",
+      "meet": "Chile Pepper Festival",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "6K cross country",
+      "mark": "21:07.3",
+      "meet": "SEC Cross Country Championships",
+      "year": "2024",
+      "indoor": false
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2021",
+      "title": "Course record and state podium",
+      "detail": "Broke the all-time 3-mile record on the Palos Verdes course, placed third in Division II at the CIF State meet and qualified for the Eastbay national championships."
+    },
+    {
+      "year": "2023",
+      "title": "Longhorn debut win",
+      "detail": "Won her first collegiate race, the Southwestern-Concordia Opener 5K, as a Texas freshman."
+    },
+    {
+      "year": "2025",
+      "title": "Steeplechase breakthrough",
+      "detail": "Placed third in her first steeplechase at the Texas Relays, then won the Texas Invitational in 10:19.23, No. 3 on Texas' all-time list."
+    },
+    {
+      "year": "2025",
+      "title": "Back-to-back Chile Pepper titles",
+      "detail": "Helped the Texas women defend their Chile Pepper Festival team title with a 17:24.0 5K."
+    },
+    {
+      "year": "2026",
+      "title": "Senior season leader",
+      "detail": "Won the Floyd Farms Invitational and led the Texas women at the Chile Pepper Festival with a 17:00.1 5K best."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Supported project tracking and cross-team coordination at an Austin manufacturer of emergency-vehicle lighting and electronics."
+    }
+  ],
+  "honors": [
+    {
+      "title": "SEC Academic Honor Roll (2x)",
+      "year": "2025-2026"
+    },
+    {
+      "title": "Texas Invitational 3000m Steeplechase Champion",
+      "year": "2025"
+    },
+    {
+      "title": "3rd Place, CIF State Cross Country Championships (Division II)",
+      "year": "2021"
+    },
+    {
+      "title": "Eastbay Cross Country National Championships Qualifier",
+      "year": "2021"
+    },
+    {
+      "title": "California Girls Cross Country Performer of the Week (MileSplit statewide poll)",
+      "year": "2021"
+    },
+    {
+      "title": "Peninsula High School Team MVP (4x)",
+      "year": "High school"
+    },
+    {
+      "title": "National Latin Honor Society",
+      "year": "High school"
+    }
+  ],
+  "inTheirWords": [
+    {
+      "quote": "I think just being there for them through running and outside of running, supporting them in the workout (and) kind of being someone they can look up to.",
+      "source": "The Daily Texan",
+      "date": "2026-09-16"
+    },
+    {
+      "quote": "Knowing your teammates are around (and) working together to fight through the hard parts of the course is really important.",
+      "source": "The Daily Texan",
+      "date": "2026-09-16"
+    },
+    {
+      "quote": "The whole race was smooth, and all the jumps were good, which was something I was a little bit worried about, so I'm really happy with it.",
+      "source": "The Daily Texan",
+      "date": "2025-03-31"
+    }
+  ],
+  "press": [
+    {
+      "title": "Aishling Callanan leads way for young Longhorn runners",
+      "outlet": "The Daily Texan",
+      "date": "2026-09-16",
+      "url": "https://thedailytexan.com/2026/09/16/aishling-callanan-leads-way-for-young-longhorn-runners/"
+    },
+    {
+      "title": "Cross Country wins Chile Pepper Festival",
+      "outlet": "Texas Athletics",
+      "date": "2026-10-03",
+      "url": "https://texaslonghorns.com/news/2026/10/3/track-field-cross-country-mens-cross-country-wins-chile-pepper-festival"
+    },
+    {
+      "title": "Cross Country sweeps Floyd Farms Invitational",
+      "outlet": "Texas Athletics",
+      "date": "2026-09-05",
+      "url": "https://texaslonghorns.com/news/2026/9/5/track-field-cross-country-cross-country-sweeps-floyd-farms-invitational"
+    },
+    {
+      "title": "Women's track and field shines across Texas Relays with outdoor debuts and repeat top finishers",
+      "outlet": "The Daily Texan",
+      "date": "2025-03-31",
+      "url": "https://thedailytexan.com/2025/03/31/womens-track-and-field-shines-across-texas-relays-with-outdoor-debuts-and-repeat-top-finishers/"
+    },
+    {
+      "title": "Callanan Crushes Palos Verdes Course In Record Run",
+      "outlet": "MileSplit California",
+      "date": "2021-10-15",
+      "url": "https://ca.milesplit.com/articles/304303/callanan-crushes-palos-verdes-course-in-record-run"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Composure",
+      "detail": "She placed third in her first-ever steeplechase, then won the event on her home track a month later."
+    },
+    {
+      "title": "Consistency",
+      "detail": "Across four seasons of Texas cross country and track she has set personal bests from the 800m to the 5K, including a new 5K best as a senior."
+    },
+    {
+      "title": "Mentorship",
+      "detail": "As a senior she has taken on guiding the team's youngest runners, modeling the habits and consistency the sport demands."
+    },
+    {
+      "title": "Team-first",
+      "detail": "She measures a season by how the whole team grows together, not only by her own times."
+    }
+  ],
+  "resume": {
+    "summary": "Marketing student and fourth-year Texas distance runner with Project Manager Intern experience at Feniex Industries. Known for consistency, composure under pressure and mentoring younger teammates; pairs disciplined time management with marketing communication skills.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Tracked project timelines and status for cross-functional work spanning product, production and sales teams at a U.S. manufacturer of emergency-vehicle lighting.",
+          "Supported coordination between sales, marketing and product teams on customer- and dealer-facing materials.",
+          "Documented recurring processes and checklists so teams could hand off work consistently.",
+          "Used Claude and AI-assisted workflows daily to organize project information, draft updates and speed up research."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Bachelor's candidate, Marketing",
+        "dates": "2023-present (expected May 2027)",
+        "details": [
+          "SEC Academic Honor Roll, Fall 2025 and Spring 2026"
+        ]
+      },
+      {
+        "school": "Palos Verdes Peninsula High School, Rolling Hills Estates, CA",
+        "degree": "High School Diploma",
+        "dates": "2023",
+        "details": [
+          "National Latin Honor Society; National Athlete Honor Society; California Honor Roll"
+        ]
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Distance Runner (Steeplechase, 1500m, Cross Country)",
+        "org": "University of Texas Track & Field / Cross Country, NCAA Division I (SEC)",
+        "dates": "2023-present",
+        "bullets": [
+          "Won the 2025 Texas Invitational 3000m steeplechase in 10:19.23, No. 3 on Texas' all-time performers list at the time.",
+          "Placed 3rd in her steeplechase debut at the 2025 Texas Relays; competed at the 2025 SEC Championships and NCAA West First Round.",
+          "Won the 2026 Floyd Farms Invitational and led the Texas women at the 2026 Chile Pepper Festival with a 17:00.1 5K best."
+        ]
+      },
+      {
+        "role": "Distance Runner",
+        "org": "Palos Verdes Peninsula High School",
+        "dates": "2019-2023",
+        "bullets": [
+          "Placed 3rd in Division II at the 2021 CIF State Cross Country meet; qualified for the Eastbay national championships.",
+          "Set Peninsula school records in the 800m (2:14) and 1,600m (4:53); broke the all-time Palos Verdes 3-mile course record.",
+          "Named team MVP four times."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Timeline & Status Tracking",
+        "Stakeholder Communication",
+        "Process Documentation",
+        "Marketing Fundamentals",
+        "Market Research",
+        "Content & Brand Coordination"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude (AI assistant)"
+      ],
+      "languages": []
+    },
+    "honors": [
+      {
+        "title": "SEC Academic Honor Roll (2x)",
+        "year": "2025-2026"
+      },
+      {
+        "title": "Texas Invitational 3000m Steeplechase Champion",
+        "year": "2025"
+      },
+      {
+        "title": "3rd Place, CIF State Cross Country Championships (Division II)",
+        "year": "2021"
+      },
+      {
+        "title": "California Girls Cross Country Performer of the Week",
+        "year": "2021"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "Aishling races the steeplechase: 35 barriers between start and finish, and composure decides the result. She worked the same way at Feniex: steady pace, clear head, obstacles handled in stride, and always looking out for the people beside her.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.54,
+      "y": 0.411,
+      "zoom": 1.27
+    },
+    "portrait": "athlete.jpg",
+    "action": [
+      "action-1.jpg",
+      "action-2.jpg"
+    ],
+    "actionAlt": [
+      "Aishling Callanan racing for Texas at the Chile Pepper Cross Country Festival",
+      "Aishling Callanan running through tall grass at the 2026 Texas A&M Invitational"
+    ],
+    "feature": "action-2.jpg",
+    "featureFocus": {
+      "x": 0.5,
+      "y": 0.4
+    }
+  },
+  "photoCredits": [
+    "Texas Athletics",
+    "University of Texas Track and Field/Cross Country",
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://aishling-callanan.vercel.app"
+  },
+  "seo": {
+    "title": "Aishling Callanan | Texas Track & Field · Project Management",
+    "description": "Aishling Callanan: Texas steeplechaser and cross country runner, Marketing major and Project Manager Intern at Feniex Industries."
+  },
+  "noindex": true
+}
